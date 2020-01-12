@@ -9,3 +9,5 @@ You can follow me on [instagram](https://www.instagram.com/mechashadowtech/) for
 <br/>
 #3 -> [Prime](https://github.com/mechashadowx/Prime-3)
 <br/>
+#4 -> [Typing](https://github.com/mechashadowx/Typing-4)
+<br/>
