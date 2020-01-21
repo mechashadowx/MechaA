@@ -17,3 +17,5 @@ You can follow me on [instagram](https://www.instagram.com/mechashadowtech/) for
 <br/>
 #6 -> [Ask](https://github.com/mechashadowx/Ask-6)
 <br/>
+#7 -> [Maze](https://github.com/mechashadowx/Maze-7)
+<br/>
