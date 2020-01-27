@@ -21,3 +21,5 @@ You can follow me on [instagram](https://www.instagram.com/mechashadowtech/) for
 <br/>
 #8 -> [URL](https://github.com/mechashadowx/URL-8)
 <br/>
+#9 -> [Counter](https://github.com/mechashadowx/Counter-9)
+<br/>
