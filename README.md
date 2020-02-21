@@ -35,7 +35,7 @@ You can follow me on [instagram](https://www.instagram.com/mechashadowtech/) for
 <br/>
 #15 -> [DO]Coming soon on play store
 <br/>
-#16 ->[Bottle](https://github.com/mechashadowx/Bottle-16)
+#16 -> [Bottle](https://github.com/mechashadowx/Bottle-16)
 <br/>
-#17 ->[Tip](https://github.com/mechashadowx/Tip-17)
+#17 -> [Tip](https://github.com/mechashadowx/Tip-17)
 <br/>
