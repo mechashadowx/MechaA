@@ -43,5 +43,6 @@ You can follow me on [instagram](https://www.instagram.com/mechashadowtech/) for
 <br/>
 #19 -> [Water](https://github.com/mechashadowx/Water-19)
 <br/>
+#20 -> [Quote](https://github.com/mechashadowx/Quote-20)
 
 
