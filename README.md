@@ -33,7 +33,7 @@ You can follow me on [instagram](https://www.instagram.com/mechashadowtech/) for
 <br/>
 #14 -> [Days](https://github.com/mechashadowx/Days-14)
 <br/>
-#15 -> [DO]Coming soon on play store
+#15 -> [DO] ):
 <br/>
 #16 -> [Bottle](https://github.com/mechashadowx/Bottle-16)
 <br/>
@@ -50,4 +50,6 @@ You can follow me on [instagram](https://www.instagram.com/mechashadowtech/) for
 #22 -> [Cororna](https://github.com/mechashadowx/Corona-22)
 <br/>
 #23 -> [PI](https://github.com/mechashadowx/PI-23)
+<br/>
+#24 -> [Spinner](https://github.com/mechashadowx/Spinner-24)
 <br/>
