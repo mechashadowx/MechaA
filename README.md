@@ -55,3 +55,6 @@ You can follow me on [instagram](https://www.instagram.com/mechashadowtech/) for
 <br/>
 #25 -> [Password](https://github.com/mechashadowx/Password-25)
 <br/>
+#26 -> ()[]
+<br/>
+#27 [Hashtages](https://github.com/mechashadowx/Hashtages-27)
