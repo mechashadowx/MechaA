@@ -8,6 +8,12 @@ You can follow me on [instagram](https://www.instagram.com/mechashadowflutter/) 
 <br/>
 <br/>
 
+## [Currency](https://github.com/mechashadowx/Currency-28)
+
+<img src="https://user-images.githubusercontent.com/57795657/77755161-ba5a0880-703d-11ea-81cb-1c27f19ceea6.png" width="250" height = "250">
+
+#### Currency Converter
+
 ## [Hashtages](https://github.com/mechashadowx/Hashtages-27)
 
 <img src="https://user-images.githubusercontent.com/57795657/77409739-727b7d00-6dc2-11ea-9025-3b957a7cd2ba.png" width="250" height = "250">
