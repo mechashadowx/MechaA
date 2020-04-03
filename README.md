@@ -1,9 +1,42 @@
 # MechaA
-In this project I am going to build a 120 apps in 2020.
+
+### Things you should know
+ - What is MechaA
+   - Project for building a 120 apps in 2020.
+ - For a lot of useful things about flutter
+   - [instagram](https://www.instagram.com/mechashadowflutter/).
+ - Support me
+   - [paypal](https://www.paypal.me/mechashadow/).
+  
 <br/>
-You can support me on [paypal](https://www.paypal.me/mechashadow/).
 <br/>
-You can follow me on [instagram](https://www.instagram.com/mechashadowflutter/) for all apps and designs.<br/>
+<br/>
+
+### Tools:-
+ - Programming Languages
+   - [Dart](https://dart.dev/).
+ - Frameworks
+   - [Flutter](https://flutter.dev/).
+ - Code Editor
+   - Visual Studio Code.
+ - Icons
+   - [flaticon](https://www.flaticon.com/).
+   - [iconfinder](https://www.iconfinder.com/).
+ - Fonts
+   - [Google Fonts](https://fonts.google.com/).
+ - Design
+   - [Figma](https://www.figma.com/).
+ - Colors
+   - [Adobe Color](https://color.adobe.com/create).
+ - Design Ideas
+   - [Dribbble](https://dribbble.com/).
+ - Animation
+   - [Rive](https://rive.app/).
+ - Source Code
+   - [GitHub](https://github.com/).
+ - Cool Source Code
+   - [Carbon](https://carbon.now.sh/).
+  
 <br/>
 <br/>
 <br/>
