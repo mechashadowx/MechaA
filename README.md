@@ -9,8 +9,6 @@
    - [paypal](https://www.paypal.me/mechashadow/).
   
 <br/>
-<br/>
-<br/>
 
 ### Tools:-
  - Programming Languages
@@ -37,8 +35,6 @@
  - Cool Source Code
    - [Carbon](https://carbon.now.sh/).
   
-<br/>
-<br/>
 <br/>
 
 ## [Move](https://github.com/mechashadowx/Move-30)
