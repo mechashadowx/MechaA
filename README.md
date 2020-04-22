@@ -2,7 +2,7 @@
 
 ### Things you should know
  - What is MechaA
-   - Project for building a 120 apps in 2020.
+   - Project for building a 30 apps in 2020.
  - For a lot of useful things about flutter
    - [instagram](https://www.instagram.com/mechashadowflutter/).
  - Support me
@@ -16,7 +16,7 @@
  - Frameworks
    - [Flutter](https://flutter.dev/).
  - Code Editor
-   - Visual Studio Code.
+   - [Visual Studio Code](https://code.visualstudio.com/).
  - Icons
    - [flaticon](https://www.flaticon.com/).
    - [iconfinder](https://www.iconfinder.com/).
