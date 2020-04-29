@@ -2,7 +2,7 @@
 
 ### Things you should know
  - What is MechaA
-   - Project for building a 30 apps in 2020.
+   - Project for building a 30 apps in 3 months.
  - For a lot of useful things about flutter
    - [instagram](https://www.instagram.com/mechashadowflutter/).
  - Support me
